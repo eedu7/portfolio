@@ -4,7 +4,7 @@ import {Suspense} from "react";
 import CanvasLoader from "../components/Loading.jsx";
 import {HackerRoom} from "../components/HackerRoom.jsx";
 import {useMediaQuery} from "react-responsive";
-import {calculateSizes} from "../../constants/index.js";
+import {calculateSizes} from "../constants/index.js";
 import Target from "../components/Target.jsx";
 import ReactLogo from "../components/ReactLogo.jsx";
 import Cube from "../components/Cube.jsx";
